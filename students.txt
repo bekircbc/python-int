@@ -1,0 +1,4 @@
+Zeile2 : Spalte 1;Spalte 2;Spalte 3
+Spalte 1;Spalte 2;Spalte 3
+Zeile2 : Spalte 1;Spalte 2;Spalte 3
+Spalte 1;Spalte 2;Spalte 3
